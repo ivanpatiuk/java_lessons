@@ -7,5 +7,6 @@ public class Main {
         System.out.println();
         System.out.println("Hello world " + x + " Maria");
         // d - число s - символи, рядок, текст
+        System.out.println("Maria the best");
     }
 }
