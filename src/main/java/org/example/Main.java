@@ -3,10 +3,10 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         int x = 5;
-        System.out.println("Hello world " + x + " Maria");
-        System.out.println();
-        System.out.println("Hello world " + x + " Maria");
-        // d - число s - символи, рядок, текст
-        System.out.println("Maria the best");
+        System.out.println(x);
+        System.out.println(3);
+        System.out.println(x+3);
+        System.out.println("x"+3);
+        System.out.println("x"+(x+3));
     }
 }
