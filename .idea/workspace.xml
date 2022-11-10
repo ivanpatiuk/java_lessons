@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70add1d6-5132-4832-8de7-0ba65c638cfc" name="Changes" comment="Updated maria-branch" />
+    <list default="true" id="70add1d6-5132-4832-8de7-0ba65c638cfc" name="Changes" comment="Updated maria-branch">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="maria-branch_v2" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -45,7 +51,20 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Loops">
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Loops" />
+      <module name="java_lessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="java_lessons" />
@@ -61,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -77,7 +97,7 @@
       <workItem from="1667573269080" duration="19000" />
       <workItem from="1667574479180" duration="6000" />
       <workItem from="1667642442858" duration="3353000" />
-      <workItem from="1668103376856" duration="6430000" />
+      <workItem from="1668103376856" duration="10218000" />
     </task>
     <task id="LOCAL-00001" summary="Begin">
       <created>1667647951939</created>
@@ -121,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668109732492</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated maria-branch">
+      <created>1668109878730</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668109878730</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
