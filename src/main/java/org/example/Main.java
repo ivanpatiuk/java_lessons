@@ -1,12 +1,15 @@
 package org.example;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        int x = 5;
-        System.out.println(x);
-        System.out.println(3);
-        System.out.println(x+3);
-        System.out.println("x"+3);
-        System.out.println("x"+(x+3));
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Введіть текст:");
+        String name = scanner.nextLine(); // Maria
+        System.out.print("Введіть double: ");
+        double a = scanner.nextDouble(); // 1.5
+        System.out.println("Введений текст: " + name + ", введений double: " + a); // Maria1.5
     }
 }
