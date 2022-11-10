@@ -11,5 +11,6 @@ public class Main {
         System.out.print("Введіть double: ");
         double a = scanner.nextDouble(); // 1.5
         System.out.println("Введений текст: " + name + ", введений double: " + a); // Maria1.5
+        System.out.println("maria2");
     }
 }
